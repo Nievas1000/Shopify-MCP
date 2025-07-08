@@ -1,0 +1,7 @@
+{
+  "name": "shopify-mcp",
+  "private": true,
+  "scripts": {
+    "start": "npx -y @shopify/dev-mcp@latest"
+  }
+}
